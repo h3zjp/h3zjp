@@ -1,3 +1,17 @@
+## [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=h3zjp&theme=onedark)]
+
+***
+
+## [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+![](https://raw.githubusercontent.com/h3zjp/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/h3zjp/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/h3zjp/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/h3zjp/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+***
+
+## [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=h3zjp&count_private=false&show_icons=true&cache_seconds=43200&locale=en&theme=gruvbox" />
 </a>
