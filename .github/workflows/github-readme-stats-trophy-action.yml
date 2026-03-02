@@ -31,12 +31,11 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate trophy
-        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          username: ${{ github.repository_owner }}
-          theme: onedark
-          output_path: profile/trophy.svg
+          options: 'username=${{ github.repository_owner }}&theme=onedark&column=7&margin-w=15&margin-h=15'
+          path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
