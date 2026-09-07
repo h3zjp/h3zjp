@@ -10,10 +10,10 @@
 ***
 
 ## [GitHub Stats Visualization](https://github.com/h3zjp/github-stats)
-![](https://raw.githubusercontent.com/h3zjp/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/h3zjp/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/h3zjp/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/h3zjp/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://github.com/h3zjp/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/h3zjp/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/h3zjp/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/h3zjp/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 
 <!--
 **h3zjp/h3zjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
